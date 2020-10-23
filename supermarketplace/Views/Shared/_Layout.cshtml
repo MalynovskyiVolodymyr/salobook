@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salobook</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body class="backround">
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    <div class="big-container">
+        @RenderSection("scripts", required: false)
+        @RenderBody()
+    </div>
+    <div class="animator">
+        <img src="~/Content/myanimator.gif" alt="animator" name="animator" id="animator" />
+    </div>
+</body>
+</html>

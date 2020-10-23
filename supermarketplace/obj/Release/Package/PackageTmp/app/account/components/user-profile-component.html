@@ -1,0 +1,83 @@
+﻿<simple-notifications [options]="options"></simple-notifications>
+<div class="form-content-margin backround-content-color">
+    <div class="horizontal-form">
+        <div class="form-body">
+            <h3 class="form-section comon-text-label-color">Update User Info</h3>
+            <div class="row">
+                <div class="col-xs-10">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Change Background Image</label><br />
+                                <Img src="{{profileToEdit.UserBackgroundImage}}" alt="test" class="save-dimentions" id="backgroundImage" name="backgroundImage" />
+                                <input type="file" class="btn btn-block btn-success" id="backroundInput" (change)="onBackroundChange($event)" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Change Your Photo</label><br />
+                                <Img src="{{profileToEdit.ImgUrl}}" alt="test" class="save-dimentions" id="innerImage" name="innerImage" />
+                                <input type="file" class="btn btn-block btn-success" id="innerInput" (change)="onInnerItemChange($event)" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <button type="button" (click)="updateProfilePictures()" class="btn btn-block btn-info">Update Images</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Change User Name</label>
+                                <input [(ngModel)]="profileToEdit.UserName" id="userName" value="profileToEdit.UserName" name="userName" type="text" class="form-control" placeholder="" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <button type="button" (click)="updateUserName()" class="btn btn-block btn-info">Update User Name</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Current Password</label>
+                                <input [(ngModel)]="profileToEdit.Password" id="userPassword" value="profileToEdit.Password" name="userPassword" type="password" class="form-control" placeholder=""/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">New Password</label>
+                                <input [(ngModel)]="profileToEdit.NewPassword" id="userNewPassword" value="profileToEdit.NewPassword" name="userNewPassword" type="password" class="form-control" placeholder=""/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Verify Password</label>
+                                <input [(ngModel)]="profileToEdit.NewPasswordConfirm" id="userNewPasswordConfirm" value="profileToEdit.NewPasswordConfirm" name="userNewPasswordConfirm" type="password" class="form-control" placeholder=""/>                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <button type="button" (click)="updateUserProfilepassword()" class="btn btn-block btn-info">Update User Password</button>
+                            </div>
+                        </div>
+                    </div>                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

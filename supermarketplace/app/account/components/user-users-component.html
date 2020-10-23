@@ -1,0 +1,10 @@
+﻿<div class="tab-content">    
+    <h1 class="backround-content-color comon-text-label-color">Manage Users</h1>
+    <ul class="pagination">
+        <li *ngFor="let page of pages" (click)="activePager(page)" [class]="activePageNum == page+1 ? 'active':''"><a class="remove-bootstrap-radius">{{page + 1}}</a></li>
+    </ul>
+    <dynamic-table [productsByCategory]="users"></dynamic-table>
+    <ul class="pagination">
+        <li *ngFor="let page of pages" (click)="activePager(page)" [class]="activePageNum == page+1 ? 'active':''"><a class="remove-bootstrap-radius">{{page + 1}}</a></li>
+    </ul>    
+</div>

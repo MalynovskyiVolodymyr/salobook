@@ -1,0 +1,61 @@
+﻿<div class="form-content-margin backround-content-color">
+    <div class="horizontal-form">
+        <div class="form-body">
+            <h3 class="form-section comon-text-label-color">Update Advertising</h3>
+            <div class="row" >
+                <div class="col-xs-10">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Change Title</label>
+                                <input [(ngModel)]="itemToEdit.Title" id="addsTitle" value="itemToEdit.Title" name="addsTitle" type="text" class="form-control" placeholder="" required />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Change Description</label>
+                                <textarea [(ngModel)]="itemToEdit.InnerText" id="addsDescription" name="addsDescription" type="text" class="form-control" placeholder="" required>
+                                    {{itemToEdit.InnerText}}
+                                </textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <button type="button" (click)="updateAddsInfo()" class="btn btn-block btn-info">Update Info</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Change Background Image</label><br />
+                                <Img src="{{itemToEdit.ImgUrl}}" alt="test" class="save-dimentions" />
+                                <input type="file" class="btn btn-block btn-success" id="backroundInput" (change)="onBackroundChange($event)" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Change Inner Image</label><br />
+                                <Img src="{{itemToEdit.InnerImgUrl}}" alt="test" class="save-dimentions" />
+                                <input type="file" class="btn btn-block btn-success" id="innerInput" (change)="onInnerItemChange($event)" />                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <button type="button" (click)="updateAdds()" class="btn btn-block btn-info">Update Images</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

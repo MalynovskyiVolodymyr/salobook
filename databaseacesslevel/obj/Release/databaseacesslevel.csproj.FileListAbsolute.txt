@@ -1,0 +1,20 @@
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Release\databaseacesslevel.dll.config
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Release\databaseacesslevel.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Release\databaseacesslevel.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Release\EntityFramework.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Release\EntityFramework.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\obj\Release\databaseacesslevel.csprojResolveAssemblyReference.cache
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\obj\Release\databaseacesslevel.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\obj\Release\databaseacesslevel.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Release\databaseacesslevel.dll.config
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Release\databaseacesslevel.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Release\databaseacesslevel.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Release\EntityFramework.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Release\EntityFramework.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\obj\Release\databaseacesslevel.csprojResolveAssemblyReference.cache
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\obj\Release\databaseacesslevel.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\obj\Release\databaseacesslevel.pdb

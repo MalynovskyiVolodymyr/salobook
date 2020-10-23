@@ -1,0 +1,106 @@
+﻿<simple-notifications [options]="options"></simple-notifications>
+<div class="form-content-margin">
+    <form [formGroup]="coolForm" (ngSubmit)="onsubmit()" class="horizontal-form">
+        <div class="form-body">
+            <h3 class="form-section comon-text-label-color">Personal Information</h3>
+            <div class="row">
+                <div class="col-xs-10">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">User Name</label>
+                                <input type="text" formControlName="userName" class="form-control" placeholder="type your name">
+                                <div [hidden]="userName.valid || userName.untouched">
+                                    <div [hidden]="!userName.hasError('required')">
+                                        <div class="error-message-color">This field can not be empty</div>
+                                    </div>
+                                    <div [hidden]="!userName.hasError('minlength')">
+                                        <div class="error-message-color">Username can not be shorter than 5 characters</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Email</label>
+                                <input type="text" formControlName="email" class="form-control" placeholder="type your email address">
+                                <div [hidden]="email.valid || email.untouched">
+                                    <div [hidden]="!email.hasError('required')">
+                                        <div class="error-message-color">This field can not be empty</div>
+                                    </div>
+                                    <div [hidden]="!email.hasError('pattern')">
+                                        <div class="error-message-color">Typed input is not email address</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Password</label>
+                                <input type="password" formControlName="password" class="form-control" placeholder="type your password">
+                                <div [hidden]="password.valid || password.untouched">
+                                    <div [hidden]="!password.hasError('required')">
+                                        <div class="error-message-color">This field can not be empty</div>
+                                    </div>
+                                    <div [hidden]="!password.hasError('minlength')">
+                                        <div class="error-message-color">The password mast be longer then 5 characters</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Password Confirm</label>
+                                <input type="password" formControlName="passwordConfirm" class="form-control" placeholder="confirm your password">
+                                <div [hidden]="passwordConfirm.valid || passwordConfirm.untouched">
+                                    <div [hidden]="!passwordConfirm.hasError('required')">
+                                        <div class="error-message-color">This field can not be empty</div>
+                                    </div>
+                                    <div [hidden]="!passwordConfirm.hasError('minlength')">
+                                        <div class="error-message-color">The password mast be longer then 5 characters</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Captcha Image</label><br />
+                                <Img src="{{capthaVerification.CaptchaImgUrl}}" alt="test" class="save-dimentions" />                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Enter Verification Code</label>
+                                <input formControlName="customvalidator" id="capthaKey"  name="capthaKey" type="text" class="form-control" placeholder="captcha code" />
+                                <div [hidden]="customvalidator.valid || customvalidator.untouched">
+                                    <div [hidden]="!customvalidator.hasError('required')">
+                                        <div class="error-message-color">This field can not be empty</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <button type="button" (click)="registerNewUser()" class="btn signup-button-color col-xs-12">
+                                    Register
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

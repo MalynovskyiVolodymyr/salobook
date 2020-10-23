@@ -1,0 +1,17 @@
+﻿<ul class="nav nav-tabs backround-content-color">
+    <li *ngFor="let category of categories" (click)="active(category)" [class]="currentCategory == category.Id ? 'active' : ''"><a data-toggle="tab" href="{{'#' + category.Title}}">Manage {{category.Title}}</a></li>    
+</ul>
+
+<div class="tab-content">
+    <div *ngFor="let category of categories" id="{{category.Title}}" [class]="currentCategory == category.Id ? 'tab-pane fade in active':'tab-pane fade'">        
+        <h1 class="backround-content-color comon-text-label-color">{{category.Title}}<a [routerLink]="['./../createnewproduct']" class="btn btn-warning pull-right new-item-margin">Create New</a></h1>
+        <ul class="pagination">
+            <li *ngFor="let page of pages" (click)="activePager(page)" [class]="activePageNum == page+1 ? 'active':''"><a class="remove-bootstrap-radius">{{page + 1}}</a></li>
+        </ul>
+        <dynamic-table [productsByCategory]="products"></dynamic-table>
+        <ul class="pagination">
+            <li *ngFor="let page of pages" (click)="activePager(page)" [class]="activePageNum == page+1 ? 'active':''"><a class="remove-bootstrap-radius">{{page + 1}}</a></li>
+        </ul>
+    </div>   
+</div>
+

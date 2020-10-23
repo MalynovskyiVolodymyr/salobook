@@ -1,0 +1,35 @@
+﻿<div class="table-border">
+    <table class="table backround-content-color">
+        <thead>
+            <tr>
+                <th *ngFor="let item of tableHead">{{item}}</th>
+                <th>Action</th>
+            </tr>            
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of tableBody">
+                <td *ngFor="let value of tableHead">
+                    <div *ngIf="value == 'ImgUrl' || value == 'CaptchaImgUrl'">
+                        <Img src="{{item[value]}}" alt="test" width="100px" height="100px" />
+                    </div>
+                    <div *ngIf="value =='UserBackgroundImage'">
+                        <button class="btn btn-default" (click)="forsedAddToFriens(item)">Frosed Add To Friends</button>
+                    </div>
+                    <div *ngIf="value == 'InnerImgUrl'">
+                        <Img src="{{item[value]}}" alt="test" width="100px" height="100px" />
+                    </div>                   
+                    <div *ngIf="value != 'RequestToPublic' && value != 'ImgUrl' && value != 'InnerImgUrl' && value !='UserBackgroundImage'">
+                        {{ item | dataFormater: value }}
+                    </div>
+                    <div *ngIf="value == 'RequestToPublic'">
+                        <button class="btn btn-default" (click)="allowPublicProduct(item[value],item)">{{item[value] ? 'Allow' : 'None'}}</button>
+                    </div>             
+                </td>
+                <td>                    
+                    <button class="btn btn-default" (click)="actionEdit(item)">Edit</button>
+                    <button class="btn btn-success" (click)="actionDelete(item)">Delete</button>
+                </td>
+            </tr>            
+        </tbody>
+    </table>
+</div>

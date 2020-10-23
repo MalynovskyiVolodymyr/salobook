@@ -1,0 +1,53 @@
+﻿<simple-notifications [options]="options"></simple-notifications>
+<div class="row form-content-margin">
+    <form [formGroup]="coolForm" (ngSubmit)="onsubmit()">
+        <div class="form-body" style="align-items: center;">
+            <h3 class="form-section comon-text-label-color">Login to your account</h3>
+            <div class="row">
+                <div class="col-xs-10">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Email</label>
+                                <input type="text" formControlName="email" class="form-control" placeholder="type your email">
+                                <div [hidden]="email.valid || email.untouched">
+                                    <div [hidden]="!email.hasError('required')">
+                                        <div class="error-message-color">This field cannot be empty</div>
+                                    </div>                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Password</label>
+                                <input type="password" formControlName="password" class="form-control" placeholder="password" required>
+                                <div [hidden]="password.valid || password.untouched">
+                                    <div [hidden]="!password.hasError('required')">
+                                        <div class="error-message-color">This field cannot be empty</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <button type="button" (click)="authorize()" class="btn signup-button-color col-xs-12">
+                                Login
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>    
+</div>
+<hr />
+<footer class="row" style="margin-top:40%">
+    <div class="row">
+        <div class="col-lg-10">
+            &copy; Malinovskiy Vladimir Gorodok Lvov west Ukraine 2016
+        </div>
+    </div>
+</footer>

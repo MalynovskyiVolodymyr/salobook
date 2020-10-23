@@ -1,0 +1,16 @@
+﻿<div class="carousel fade-carousel slide" data-ride="carousel" data-interval="4000" id="bs-carousel">
+    <!-- Overlay -->
+    <div class="overlay"></div>   
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+        <div *ngFor="let item of advertisingImg" [class]="indicator == item.Id ? 'item slides active' : 'item slides'">
+            <Img src="{{item.ImgUrl}}" alt="test" width="100%"/>
+            <div class="hero">
+                <header style="padding-bottom:5px;">
+                    <img src="{{item.InnerImgUrl}}" alt="qwert" class="adds-content-img" />                    
+                    <textarea class="adds-text-area" readonly="readonly">{{item.InnerText}}</textarea>                    
+                </header>                
+            </div>
+        </div>        
+    </div>
+</div>

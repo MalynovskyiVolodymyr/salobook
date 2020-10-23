@@ -1,0 +1,37 @@
+﻿<simple-notifications [options]="options"></simple-notifications>
+<div id="wrapper" class="toggled">
+    <!-- Sidebar -->
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <li class="sidebar-brand">
+                <a href="/">
+                    Refresh page
+                </a>
+            </li>
+            <!--<div *ngIf="value == 'ImgUrl' || value == 'CaptchaImgUrl'">-->
+            <li class="login-signup-content" *ngIf="!checkIfLoggedIn()">
+                <a class="login-signup-buttons login-button-color" [routerLink]="'./login'">
+                    Login
+                </a>
+                <a class="login-signup-buttons signup-button-color" [routerLink]="'./register'">
+                    Sign Up
+                </a>
+            </li>
+            <li class="categories-butttons" *ngIf="checkIfLoggedIn()">
+                <a class="login-button-color" [routerLink]="'./../account'">
+                    Go to my account
+                </a>
+            </li>
+                <hr />
+            <li class="categories-butttons" *ngFor="let category of categories" (click)="active(category)">
+                <a [routerLink]="['./category',category.Id]" [class]="activeControll == category.Id ? 'active-controll':''">{{category.Title}}</a>
+            </li>
+        </ul>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <router-outlet></router-outlet>
+        </div>
+    </div>
+    <!-- /#page-content-wrapper -->
+</div>

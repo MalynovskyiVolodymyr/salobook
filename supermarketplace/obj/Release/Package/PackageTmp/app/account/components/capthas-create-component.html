@@ -1,0 +1,42 @@
+﻿<div class="form-content-margin backround-content-color">
+    <div class="horizontal-form">
+        <div class="form-body">
+            <h3 class="form-section comon-text-label-color">Create New Captcha</h3>
+            <div class="row">
+                <div class="col-xs-10">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Verification Key</label>
+                                <input [(ngModel)]="item.VerificationKey" id="verificationKey" name="verificationKey" type="text" class="form-control" placeholder="" required />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Captcha Image Preview</label><br />
+                                <Img id="imgPreview" name="imgPreview" alt="test" class="save-dimentions" />     
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Captcha Image</label><br />
+                                <input type="file" class="btn btn-block btn-success" id="itemImage" (change)="onCapthaImageChange($event)" required />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <button type="button" (click)="saveCapthaInfo()" class="btn btn-block btn-info">Save Captha</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

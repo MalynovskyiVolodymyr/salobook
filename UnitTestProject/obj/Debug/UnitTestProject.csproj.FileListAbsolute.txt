@@ -1,0 +1,190 @@
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\csc.exe
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\vbc.exe
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\databaseacesslevel.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\supermarketplace.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.Helpers.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.Mvc.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.Razor.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\WebActivatorEx.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.Optimization.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Owin.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\databaseacesslevel.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\supermarketplace.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.Helpers.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.Mvc.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.Razor.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\System.Web.Optimization.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\csc.exe
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\vbc.exe
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\databaseacesslevel.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\supermarketplace.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.Helpers.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.Mvc.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.Razor.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\WebActivatorEx.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.Optimization.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Owin.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\databaseacesslevel.pdb
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\supermarketplace.pdb
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.Helpers.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.Mvc.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.Razor.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\System.Web.Optimization.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\malin\Documents\project\supermarketplace\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\csc.exe
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\vbc.exe
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\databaseacesslevel.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\supermarketplace.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.Helpers.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.Mvc.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.Razor.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\WebActivatorEx.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.Optimization.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Owin.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\databaseacesslevel.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\supermarketplace.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.Helpers.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.Mvc.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.Razor.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\System.Web.Optimization.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\UnitTestProject\obj\Debug\UnitTestProject.pdb

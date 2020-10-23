@@ -1,0 +1,47 @@
+﻿<div id="wrapper" class="toggled">
+    <!-- Sidebar -->
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <li class="sidebar-brand">
+                <a href="/">
+                    Refresh page
+                </a>
+            </li>
+            <li class="categories-butttons">
+                <a class="signup-button-color" (click)="logoutUser()">
+                    Logout
+                </a>
+            </li>
+            <hr />
+            <li class="categories-butttons">                
+                <a class="login-button-color" [routerLink]="'./../products'">
+                    Go to general page
+                </a>
+            </li>
+            <hr />
+            <li class="categories-butttons" *ngFor="let menuItem of userAccountMenu" (click)="active(menuItem)">
+                <a [class]="activeControll == menuItem.Id ? 'active-controll':''" [routerLink]="['./'+ menuItem.RouteName]">{{ menuItem.Title }}</a>
+            </li>
+        </ul>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="carousel use-page-contant-margin" id="bs-carousel" *ngIf="checkRoute()">
+                <!-- Overlay -->
+                <div class="user-overlay"></div>
+                <!-- Wrapper for slides -->
+                <div class="user-background">
+                    <div>
+                        <Img src="{{userInfo.UserBackgroundImage}}" alt="test" width="100%" />
+                        <div class="user-hero">                            
+                            <img src="{{userInfo.ImgUrl}}" alt="qwert" class="user-page-items-align" />                                                            
+                        </div>
+                    </div>
+                </div>
+            </div>            
+            <hr />            
+            <router-outlet></router-outlet>           
+        </div>
+    </div>
+    <!-- /#page-content-wrapper -->
+</div>

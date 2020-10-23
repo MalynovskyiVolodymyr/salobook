@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="salobook20170129110646" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\vlad_home_pc\\Documents\\supermarketplace\\supermarketplace\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\vlad_home_pc\\Documents\\supermarketplace\\supermarketplace\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnectionString-Web.config Connection String" description="" value="Data Source=tcp:salobook20170129110646dbserver.database.windows.net,1433;Initial Catalog=salobook;Persist Security Info=True;User ID=malinovskiynewpost@salobook20170129110646dbserver;Password=burt_is_not_running" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\vlad_home_pc\\Documents\\supermarketplace\\supermarketplace\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

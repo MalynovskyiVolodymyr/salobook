@@ -1,0 +1,494 @@
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\csc.exe
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\vbc.exe
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\supermarketplace.dll.config
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\supermarketplace.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\supermarketplace.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Antlr3.Runtime.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\databaseacesslevel.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\EntityFramework.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Owin.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Newtonsoft.Json.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Owin.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.Helpers.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.Mvc.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.Optimization.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.Razor.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.WebPages.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\TypeLite.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\TypeLite.Net4.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\WebActivatorEx.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\WebGrease.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\databaseacesslevel.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Owin.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.Helpers.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.Mvc.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.Optimization.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.Razor.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.WebPages.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\TypeLite.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\TypeLite.Net4.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Antlr3.Runtime.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Newtonsoft.Json.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\EntityFramework.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csprojResolveAssemblyReference.cache
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\obj\Debug\supermarketplace.Migrations.initial.resources
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\obj\Debug\supermarketplace.Migrations.userProfileAndMessagesModel.resources
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\obj\Debug\supermarketplace.Migrations.ModifiedUserPublicFields.resources
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\obj\Debug\supermarketplace.Migrations.FriendsTest1.resources
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\obj\Debug\supermarketplace.Migrations.DescribedAllEnteties.resources
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\obj\Debug\supermarketplace.Migrations.captha_and_user_name.resources
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csproj.GenerateResource.Cache
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\obj\Debug\supermarketplace.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\supermarketplace\obj\Debug\supermarketplace.pdb
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\csc.exe
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\vbc.exe
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\supermarketplace.dll.config
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\supermarketplace.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\supermarketplace.pdb
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Antlr3.Runtime.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\databaseacesslevel.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\EntityFramework.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Owin.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Newtonsoft.Json.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Owin.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.Helpers.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.Mvc.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.Optimization.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.Razor.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.WebPages.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\TypeLite.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\TypeLite.Net4.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\WebActivatorEx.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\WebGrease.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\databaseacesslevel.pdb
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Owin.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.Helpers.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.Mvc.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.Optimization.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.Razor.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.WebPages.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\TypeLite.pdb
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\TypeLite.Net4.pdb
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Antlr3.Runtime.pdb
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Newtonsoft.Json.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\EntityFramework.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csprojResolveAssemblyReference.cache
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\obj\Debug\supermarketplace.dll
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\obj\Debug\supermarketplace.pdb
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\obj\Debug\supermarketplace.Migrations.initial.resources
+C:\Users\malin\Documents\project\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csproj.GenerateResource.Cache
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\csc.exe
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\vbc.exe
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\supermarketplace.dll.config
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\supermarketplace.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\supermarketplace.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Antlr3.Runtime.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\databaseacesslevel.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\EntityFramework.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Owin.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Newtonsoft.Json.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Owin.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.Helpers.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.Mvc.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.Optimization.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.Razor.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.WebPages.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\TypeLite.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\TypeLite.Net4.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\WebActivatorEx.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\WebGrease.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\databaseacesslevel.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Owin.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.Helpers.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.Mvc.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.Optimization.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.Razor.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.WebPages.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\TypeLite.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\TypeLite.Net4.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Antlr3.Runtime.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Newtonsoft.Json.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\EntityFramework.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csprojResolveAssemblyReference.cache
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\obj\Debug\supermarketplace.Migrations.initial.resources
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csproj.GenerateResource.Cache
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\obj\Debug\supermarketplace.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\supermarketplace\obj\Debug\supermarketplace.pdb
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\csc.exe
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\vbc.exe
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\supermarketplace.dll.config
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\supermarketplace.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\supermarketplace.pdb
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Antlr3.Runtime.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\databaseacesslevel.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\EntityFramework.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Owin.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Newtonsoft.Json.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Owin.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.Helpers.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.Mvc.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.Optimization.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.Razor.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.WebPages.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\TypeLite.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\TypeLite.Net4.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\WebActivatorEx.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\WebGrease.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\databaseacesslevel.pdb
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Owin.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.Helpers.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.Mvc.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.Optimization.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.Razor.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.WebPages.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\TypeLite.pdb
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\TypeLite.Net4.pdb
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Antlr3.Runtime.pdb
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Newtonsoft.Json.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\EntityFramework.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csprojResolveAssemblyReference.cache
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\obj\Debug\supermarketplace.Migrations.initial.resources
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csproj.GenerateResource.Cache
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\obj\Debug\supermarketplace.dll
+C:\Users\vlad_home_pc\Desktop\supermarketplace\supermarketplace\obj\Debug\supermarketplace.pdb
+F:\supermarketplace\supermarketplace\bin\roslyn\csc.exe
+F:\supermarketplace\supermarketplace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\supermarketplace\supermarketplace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\supermarketplace\supermarketplace\bin\roslyn\System.Collections.Immutable.dll
+F:\supermarketplace\supermarketplace\bin\roslyn\System.Reflection.Metadata.dll
+F:\supermarketplace\supermarketplace\bin\roslyn\vbc.exe
+F:\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe
+F:\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe.config
+F:\supermarketplace\supermarketplace\bin\supermarketplace.dll.config
+F:\supermarketplace\supermarketplace\bin\supermarketplace.dll
+F:\supermarketplace\supermarketplace\bin\supermarketplace.pdb
+F:\supermarketplace\supermarketplace\bin\Antlr3.Runtime.dll
+F:\supermarketplace\supermarketplace\bin\databaseacesslevel.dll
+F:\supermarketplace\supermarketplace\bin\EntityFramework.dll
+F:\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.Owin.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\supermarketplace\supermarketplace\bin\Microsoft.Web.Infrastructure.dll
+F:\supermarketplace\supermarketplace\bin\Newtonsoft.Json.dll
+F:\supermarketplace\supermarketplace\bin\Owin.dll
+F:\supermarketplace\supermarketplace\bin\System.Web.Helpers.dll
+F:\supermarketplace\supermarketplace\bin\System.Web.Mvc.dll
+F:\supermarketplace\supermarketplace\bin\System.Web.Optimization.dll
+F:\supermarketplace\supermarketplace\bin\System.Web.Razor.dll
+F:\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.dll
+F:\supermarketplace\supermarketplace\bin\System.Web.WebPages.dll
+F:\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.dll
+F:\supermarketplace\supermarketplace\bin\TypeLite.dll
+F:\supermarketplace\supermarketplace\bin\TypeLite.Net4.dll
+F:\supermarketplace\supermarketplace\bin\WebActivatorEx.dll
+F:\supermarketplace\supermarketplace\bin\WebGrease.dll
+F:\supermarketplace\supermarketplace\bin\databaseacesslevel.pdb
+F:\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.Owin.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\supermarketplace\supermarketplace\bin\System.Web.Helpers.xml
+F:\supermarketplace\supermarketplace\bin\System.Web.Mvc.xml
+F:\supermarketplace\supermarketplace\bin\System.Web.Optimization.xml
+F:\supermarketplace\supermarketplace\bin\System.Web.Razor.xml
+F:\supermarketplace\supermarketplace\bin\System.Web.WebPages.xml
+F:\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.xml
+F:\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.xml
+F:\supermarketplace\supermarketplace\bin\TypeLite.pdb
+F:\supermarketplace\supermarketplace\bin\TypeLite.Net4.pdb
+F:\supermarketplace\supermarketplace\bin\Antlr3.Runtime.pdb
+F:\supermarketplace\supermarketplace\bin\Newtonsoft.Json.xml
+F:\supermarketplace\supermarketplace\bin\EntityFramework.xml
+F:\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.xml
+F:\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csprojResolveAssemblyReference.cache
+F:\supermarketplace\supermarketplace\obj\Debug\supermarketplace.Migrations.initial.resources
+F:\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csproj.GenerateResource.Cache
+F:\supermarketplace\supermarketplace\obj\Debug\supermarketplace.dll
+F:\supermarketplace\supermarketplace\obj\Debug\supermarketplace.pdb
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csprojAssemblyReference.cache
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\csc.exe
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\System.Collections.Immutable.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\System.Reflection.Metadata.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\vbc.exe
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\roslyn\VBCSCompiler.exe.config
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\supermarketplace.dll.config
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\supermarketplace.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\supermarketplace.pdb
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Antlr3.Runtime.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\databaseacesslevel.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\EntityFramework.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Owin.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Web.Infrastructure.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Newtonsoft.Json.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Owin.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.Helpers.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.Mvc.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.Optimization.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.Razor.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.WebPages.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\TypeLite.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\TypeLite.Net4.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\WebActivatorEx.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\WebGrease.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\databaseacesslevel.pdb
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\databaseacesslevel.dll.config
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Client.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Owin.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Owin.Security.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.Helpers.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.Mvc.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.Optimization.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.Razor.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.WebPages.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.WebPages.Deployment.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\System.Web.WebPages.Razor.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\TypeLite.pdb
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\TypeLite.Net4.pdb
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Antlr3.Runtime.pdb
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Newtonsoft.Json.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\EntityFramework.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\EntityFramework.SqlServer.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csproj.CoreCompileInputs.cache
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csproj.CopyComplete
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\obj\Debug\supermarketplace.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\obj\Debug\supermarketplace.pdb
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\obj\Debug\supermarketplace.Migrations.initial.resources
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\supermarketplace\obj\Debug\supermarketplace.csproj.GenerateResource.cache

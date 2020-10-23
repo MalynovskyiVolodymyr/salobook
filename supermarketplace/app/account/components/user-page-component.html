@@ -1,0 +1,68 @@
+﻿<simple-notifications [options]="options"></simple-notifications>
+<div class="common-container row">
+    <ul class="pagination">
+        <li *ngFor="let page of pages" (click)="active(page)" [class]="activePageNum == page+1 ? 'active':''"><a class="remove-bootstrap-radius">{{page + 1}}</a></li>
+    </ul>
+    <div class="col-xs-4 pull-right friends-wrapper">
+        <div class="panel friend-item" *ngFor="let user of userFriends" data-toggle="modal" data-target="#myModal" (click)="showModalDialog(user)">
+            <img src="{{user.ImgUrl}}" alt="qwert" class="user-friend-item" /> 
+            {{user.UserName}}
+        </div>
+    </div>
+    <ul class="list-group">
+        <li class="list-group-item content-item">
+            <h1 class="backround-content-color comon-text-label-color">User Content<a [routerLink]="['./../createnewproduct']" class="btn btn-warning pull-right new-item-margin">Create New</a></h1>
+        </li>
+    </ul>
+    <ul class="list-group">
+        <li *ngFor="let item of userProducts" class="list-group-item content-item">
+            <h5><span style="overflow:scroll;">Product Title: {{item.Title}}</span><span class="btn btn-warning pull-left" (click)="removeProductItem(item)">Remove</span></h5>            
+            <Img src="{{item.ImgUrl}}" alt="test" class="save-dimentions" /> <br />
+            <span style="overflow:scroll;">
+                {{item.Description}}
+            </span>
+        </li>
+    </ul>
+    <ul class="pagination">
+        <li *ngFor="let page of pages" (click)="active(page)" [class]="activePageNum == page+1 ? 'active':''"><a class="remove-bootstrap-radius">{{page + 1}}</a></li>
+    </ul>
+    <div id="container" name="container" class="container">
+        <div class="container">          
+            <!-- Modal -->
+            <div class="modal fade " id="myModal" role="dialog" (click)="onModalClosed()">
+                <div class="modal-dialog modalContainer">                    
+                    <!-- Modal content-->
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal"(click)="onModalClosed()">&times;</button>
+                            <img src="{{modalDialogData.ImgUrl}}" alt="qwert" class="user-friend-item" /> 
+                            <h4 class="modal-title">{{modalDialogData.UserName}}</h4>
+                        </div>
+                        <div class="modal-body" id="modal-body" name="modal-body">
+                            <div class="panel-body" id="panel-body" name="panel-body">
+                                <div *ngFor="let message of modalDialogData.userMessages">
+                                    <div class="messageHer" *ngIf="message.UserSenderId == modalDialogData.UserId">
+                                        <img src="{{modalDialogData.ImgUrl}}" alt="" />
+                                        <span>{{message.MessageText}}</span>
+                                        <div class="clearFix"></div>
+                                    </div>
+                                    <div class="messageMe" *ngIf="message.UserSenderId != modalDialogData.UserId">
+                                        <img src="{{userInfo.ImgUrl}}" alt="" />
+                                        <span>{{message.MessageText}}</span>
+                                        <div id="clearFix" name="clearFix" class="clearFix"></div>
+                                    </div>                                    
+                                </div>                               
+
+                                <div class="clearFix"></div>
+                            </div>                         
+                        </div>
+                        <div class="modal-footer">
+                            <input class="col-xs-9 input-lg" type="text" [(ngModel)]="userInput.text" />
+                            <button type="button" class="btn btn-default col-xs-3 btn-lg" (click)="sendMessage()">Send</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

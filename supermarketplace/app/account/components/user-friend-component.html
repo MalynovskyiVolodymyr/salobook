@@ -1,0 +1,37 @@
+﻿<simple-notifications [options]="options"></simple-notifications>
+<div class="carousel use-page-contant-margin friend-top-margin" id="bs-carousel">
+    <!-- Overlay -->
+    <div class="user-overlay"></div>
+    <!-- Wrapper for slides -->
+    <div class="user-background">
+        <div>
+            <Img src="{{userInfo.UserBackgroundImage}}" alt="test" width="100%" />
+            <div class="user-hero">
+                <img src="{{userInfo.ImgUrl}}" alt="qwert" class="user-page-items-align" />
+            </div>
+        </div>
+    </div>
+</div>
+<hr />
+<div class="common-container row">
+    <ul class="pagination">
+        <li *ngFor="let page of pages" (click)="active(page)" [class]="activePageNum == page+1 ? 'active':''"><a class="remove-bootstrap-radius">{{page + 1}}</a></li>
+    </ul>
+    <ul class="list-group">
+        <li class="list-group-item content-item">
+            <h1 class="backround-content-color comon-text-label-color">{{ userInfo.UserName }} Content</h1>
+        </li>
+    </ul>
+    <ul class="list-group">
+        <li *ngFor="let item of userProducts" class="list-group-item content-item">
+            <h5>Product Title: {{item.Title}}</h5>
+            <Img src="{{item.ImgUrl}}" alt="test" class="save-dimentions" /> <br />
+            <span>
+                {{item.Description}}
+            </span>
+        </li>
+    </ul>
+    <ul class="pagination">
+        <li *ngFor="let page of pages" (click)="active(page)" [class]="activePageNum == page+1 ? 'active':''"><a class="remove-bootstrap-radius">{{page + 1}}</a></li>
+    </ul>
+</div>

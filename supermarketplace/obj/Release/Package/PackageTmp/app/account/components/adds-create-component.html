@@ -1,0 +1,51 @@
+﻿<div class="form-content-margin backround-content-color">
+    <div class="horizontal-form">
+        <div class="form-body">
+            <h3 class="form-section comon-text-label-color">Create Advertising</h3>
+            <div class="row">
+                <div class="col-xs-10">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Title</label>
+                                <input [(ngModel)]="item.Title" id="addsTitle" name="addsTitle" type="text" class="form-control" placeholder="" required />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Description</label>
+                                <textarea [(ngModel)]="item.InnerText" id="addsDescription" name="addsDescription" type="text" class="form-control" placeholder="" required>                                    
+                                </textarea>
+                            </div>
+                        </div>
+                    </div>                  
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Background Image</label><br />                                
+                                <input type="file" class="btn btn-block btn-success" id="backroundInput" (change)="onBackroundChange($event)" required/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Inner Image</label><br />                                
+                                <input type="file" class="btn btn-block btn-success" id="innerInput" (change)="onInnerItemChange($event)" required/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <button type="button" (click)="saveAddsInfo()" class="btn btn-block btn-info">Save Info</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

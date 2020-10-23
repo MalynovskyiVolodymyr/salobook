@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnectionString-Web.config Connection String" description="DefaultConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=saloserver.database.windows.net;Initial Catalog=salobook;Integrated Security=False;User ID=saloserver;Password=NBsqscooter123$5;Connect Timeout=60;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\vlad_home_pc\\Desktop\\supermarketplace\\supermarketplace\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

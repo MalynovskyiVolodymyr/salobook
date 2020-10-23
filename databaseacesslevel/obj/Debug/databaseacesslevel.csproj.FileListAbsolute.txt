@@ -1,0 +1,42 @@
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.dll.config
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.pdb
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.csprojResolveAssemblyReference.cache
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.dll
+C:\Users\vlad_home\documents\visual studio 2015\Projects\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.pdb
+C:\Users\malin\Documents\project\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.dll.config
+C:\Users\malin\Documents\project\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.dll
+C:\Users\malin\Documents\project\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.pdb
+C:\Users\malin\Documents\project\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.dll
+C:\Users\malin\Documents\project\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\malin\Documents\project\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.xml
+C:\Users\malin\Documents\project\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\malin\Documents\project\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.dll
+C:\Users\malin\Documents\project\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.pdb
+C:\Users\malin\Documents\project\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.csprojResolveAssemblyReference.cache
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.dll.config
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.pdb
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.csprojResolveAssemblyReference.cache
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.dll
+C:\Users\vlad_home_pc\Documents\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.pdb
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.dll.config
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\bin\Debug\databaseacesslevel.pdb
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.csproj.CoreCompileInputs.cache
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.csproj.CopyComplete
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.dll
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.pdb
+D:\Program Files\projects\old_prj\oldallinone\supermarketplace\databaseacesslevel\obj\Debug\databaseacesslevel.csprojAssemblyReference.cache

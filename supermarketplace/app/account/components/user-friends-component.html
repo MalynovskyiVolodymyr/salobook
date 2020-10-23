@@ -1,0 +1,121 @@
+﻿<simple-notifications [options]="options"></simple-notifications>
+<div>
+    <div class="col-xs-4">
+        <ul class="list-group col-xs-12">
+            <li class="list-group-item content-item friends-page">
+                <h1 class="backround-content-color comon-text-label-color">Friends</h1>
+            </li>
+            <li class="list-group-item content-item friends-page">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="panel panel-default">  
+                            <ul class="list-group" id="contact-list">
+                                <li class="list-group-item" *ngFor="let friend of userFriends">
+                                    <div class="col-xs-12 col-sm-3">
+                                        <img src="{{ friend.ImgUrl }}" alt="Scott Stevens" class="img-responsive" />
+                                    </div>
+                                    <div class="col-xs-12 col-sm-9">
+                                        <span class="name">{{ friend.UserName }}</span><br />
+                                        <button class="btn btn-warning" (click)="visitFriendPage(friend)">visit page</button>
+                                        <button class="btn btn-danger" (click)="removeUserFriend(friend)">remove</button>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </li>                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="col-xs-4">
+        <ul class="list-group col-xs-12">
+            <li class="list-group-item content-item friends-page">
+                <h1 class="backround-content-color comon-text-label-color">Search</h1>
+            </li>
+            <li class="list-group-item content-item friends-page">
+                <div id="custom-search-input">
+                    <div class="input-group col-md-12">
+                        <input [(ngModel)]="search" type="text" class="form-control input-lg" placeholder="Search friends" />
+                        <span class="input-group-btn">
+                            <button class="btn btn-info btn-lg" type="button" (click)="searchForUsers(search)">
+                                <i class="glyphicon glyphicon-search"></i>
+                            </button>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li class="list-group-item content-item friends-page">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="panel panel-default">
+                            <ul class="list-group" id="contact-list">
+                                <li class="list-group-item" *ngFor="let user of userFrinedSearchResult">                                   
+                                    <div class="col-xs-12 col-sm-3">
+                                        <img src="{{user.ImgUrl}}" alt="Scott Stevens" class="img-responsive" />
+                                    </div>
+                                    <div class="col-xs-12 col-sm-9">
+                                        <span class="name">{{user.UserName}}</span><br />
+                                        <button class="btn btn-warning" (click)="sendUserFriendRequest(user)">send friend request</button>  
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </li>                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        
+    </div>
+    <div class="col-xs-4">
+        <ul class="list-group col-xs-12">
+            <li class="list-group-item content-item friends-page">
+                <h1 class="backround-content-color comon-text-label-color">Requests to me</h1>
+            </li>
+            <li class="list-group-item content-item friends-page" *ngFor="let friendReq of userFriendsRequests">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="panel panel-default">
+                            <ul class="list-group" id="contact-list">
+                                <li class="list-group-item">
+                                    <div class="col-xs-12 col-sm-3">
+                                        <img src="{{friendReq.ImgUrl}}" alt="Scott Stevens" class="img-responsive" />
+                                    </div>
+                                    <div class="col-xs-12 col-sm-9">
+                                        <span class="name">{{friendReq.UserName}}</span><br />
+                                        <button class="btn btn-warning" (click)="addNewFriend(friendReq)">add to friend</button>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="list-group-item content-item friends-page">
+                <h1 class="backround-content-color comon-text-label-color">My Requests</h1>
+            </li>
+            <li class="list-group-item content-item friends-page" *ngFor="let friendReq of userMyFriendsRequests">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="panel panel-default">
+                            <ul class="list-group" id="contact-list">
+                                <li class="list-group-item">
+                                    <div class="col-xs-12 col-sm-3">
+                                        <img src="{{friendReq.ImgUrl}}" alt="Scott Stevens" class="img-responsive" />
+                                    </div>
+                                    <div class="col-xs-12 col-sm-9">
+                                        <span class="name">{{friendReq.UserName}}</span><br />
+                                        <button class="btn btn-warning" (click)="removeFriendRequest(friendReq)">remove request</button>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </li>            
+        </ul>
+    </div>
+</div>

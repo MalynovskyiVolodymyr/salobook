@@ -1,0 +1,54 @@
+﻿<div class="form-content-margin">
+    <div class="horizontal-form">
+        <div class="form-body">
+            <h3 class="form-section comon-text-label-color">Update Product</h3>
+            <div class="row">
+                <div class="col-xs-10">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Change Category</label>
+                                <select [(ngModel)]="itemToEdit.CategoryId" class="btn btn-block" [ngModelOptions]="{standalone: true}">
+                                    <option *ngFor="let category of categories" [ngValue]="category.Id">{{category.Title}}</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Change Title</label>
+                                <input [(ngModel)]="itemToEdit.Title" id="productTitle" value="itemToEdit.Title" name="productTitle" type="text" class="form-control" placeholder="" required />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <label class="control-label comon-text-label-color">Change Description</label>
+                                <textarea [(ngModel)]="itemToEdit.Description" id="productDescription" name="productDescription" type="text" class="form-control" placeholder="" required>
+                                    {{itemToEdit.Description}}
+                                </textarea>
+                            </div>
+                        </div>
+                    </div>                    
+                    <div class="row">
+                        <div class="col-xs-12">                            
+                            <div class="form-group">                                
+                                <Img src="{{itemToEdit.ImgUrl}}" id="itemImagePreview" name="itemImagePreview" alt="test" class="save-dimentions" />                                 
+                                <input type="file" class="btn btn-block btn-success" id="testInput" (change)="onChange($event)" />
+                            </div>
+                        </div>
+                    </div>                   
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <div class="form-group">
+                                <button type="button" (click)="makeFileRequest()" class="btn btn-block btn-info">Update Info</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
