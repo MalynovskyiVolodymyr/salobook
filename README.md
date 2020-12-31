@@ -8,3 +8,5 @@
 # Як інтерфейс користувачa Я використовував Angular 2, який вийшов у вересні 2016 року
 
 # https://www.youtube.com/watch?v=Qx0ringe0AY - working example
+https://www.linkedin.com/in/volodymyr-malynovskyi-3bb200183/  my linkedin profile
+Warning! I'm not asking for donation, and I never did for any kind of support please contact directly with me(I'm simple unemployed professional)
