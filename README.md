@@ -7,11 +7,7 @@
  Це невеликий приклад у соціальній мережі
  Як інтерфейс користувачa Я використовував Angular 2, який вийшов у вересні 2016 року
 
-# https://www.youtube.com/watch?v=Qx0ringe0AY - working example
-https://www.linkedin.com/in/volodymyr-malynovskyi-3bb200183/  my linkedin profile
-#### Intermediary: BANK OF NEW YORK MELLON, New York, USA
-#### SWIFT: IRVTUS3N
-#### Beneficiary's bank: JSC KREDOBANK Lviv, Ukraine
-#### SWIFT: WUCBUA2X
-#### Beneficiary Name: VOLODYMYR MALYNOVSKYI
+# 
+https://www.linkedin.com/in/volodymyr-malynovskyi-bb2a6b19b  my linkedin profile
+
 #### IBAN UA673253650000026204061718136
